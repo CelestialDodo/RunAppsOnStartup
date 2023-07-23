@@ -1,3 +1,4 @@
+I DO NOT ALLOW MY CODE TO BE COPIED EVER UNLESS SPECIFICLY TOLD OTHERWISE
 # Run Apps On Startup
 
 Ignore the fact that its RAOS and not RAON it just sounds better

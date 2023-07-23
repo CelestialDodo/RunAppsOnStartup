@@ -7,7 +7,7 @@ RAON(Run Apps On Startup) is a tool that automaticly opens when your pc is start
 
 ## Setup Instructions ##
 
-1: Download the Autostart.py file and copy it (CTRL + C)
+1: Download the Autostart.py file and copy it (CTRL + C)\n
 2: Press (Windows + R)
 3: In the text field input ( shell:startup )
 4: At the top press the text that says ( Programs )

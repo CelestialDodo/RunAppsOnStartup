@@ -111,6 +111,8 @@ class AA:
             FileTarget = FileE[int(SelectedD)]
             shutil.move(f"Disabled\{FileTarget}","..\Startup")
             ReloadFiles()
+        def RestartPC():
+            os.system("shutdown /r /f /t 0")
             
 
         ReloadFiles()
@@ -122,6 +124,8 @@ class AA:
         SSB.place(x=165,y=60)
         SSB = Button(text="Enable\nThe selected files",command=SS2)
         SSB.place(x=165,y=120)
+        Restart = Button(text="!!!RESTART!!!\nThis will restart your pc\nThere is no confirmation\nSo be careful",command=RestartPC)
+        Restart.place(x=150,y=160)
         Menu.mainloop()
 
 AA()

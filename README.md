@@ -1,5 +1,5 @@
 I DO NOT ALLOW MY CODE TO BE COPIED EVER UNLESS SPECIFICALLY TOLD OTHERWISE FROM THE REAL CELESTIAL DODO
-### you require to have 'Python' installed ###
+### you require to have 'Python' and 'Pip' installed ###
 # Run Apps On Startup
 
 Ignore the fact that it's RAOS and not RAON it just sounds better

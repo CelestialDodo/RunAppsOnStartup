@@ -21,7 +21,7 @@ RAON(Run Apps On Startup) is a tool that automatically opens when your pc is sta
 
 6: In the folder ( Dodo Co ) paste the ( RunAppsOnStartup.zip ) file from earlier 
 
-7: Extract the RunAppsOnStartup.zip file, then open it if you see only 1 file and its a folder then open that one if not that is ok you will see 5 files either way
+7: Extract the RunAppsOnStartup.zip file, then open it if you see only 1 file and its a folder then open that one if not that is ok you will see 7 files either way
 
 8: Move the following files into the Dodo Co folder: Disabled, Autostart.py
 
@@ -37,9 +37,11 @@ RAON(Run Apps On Startup) is a tool that automatically opens when your pc is sta
 
 (OPTIONAL) (RECOMMENDED) 14: Right-click the file ( Startup.py ) then click Sent to > Create Desktop Shortcut
 
+---
+
 To make sure you did it right look at the following pictures:
-[Startup Folder](https://github.com/CelestialDodo/RunAppsOnStartup/blob/main/Startup%20Folder.jpg)
-[Dodo Co Folder](https://github.com/CelestialDodo/RunAppsOnStartup/blob/main/Dodo%20Co%20Folder.jpg)
+<br>[Startup Folder](https://github.com/CelestialDodo/RunAppsOnStartup/blob/main/Startup%20Folder.jpg)
+<br>[Dodo Co Folder](https://github.com/CelestialDodo/RunAppsOnStartup/blob/main/Dodo%20Co%20Folder.jpg)
 
 if you require any further help join my discord server and put it in Apps>Support
 the server link will be realesed August 1st right here

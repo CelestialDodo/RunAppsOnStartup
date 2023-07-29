@@ -37,7 +37,12 @@ RAON(Run Apps On Startup) is a tool that automatically opens when your pc is sta
 
 (OPTIONAL) (RECOMMENDED) 14: Right-click the file ( Startup.py ) then click Sent to > Create Desktop Shortcut
 
-To make sure you did it right look at the following pictures
+To make sure you did it right look at the following pictures:
+[Startup Folder](https://github.com/CelestialDodo/RunAppsOnStartup/blob/main/Startup%20Folder.jpg)
+[Dodo Co Folder](https://github.com/CelestialDodo/RunAppsOnStartup/blob/main/Dodo%20Co%20Folder.jpg)
+
+if you require any further help join my discord server and put it in Apps>Support
+the server link will be realesed August 1st right here
 
 ## How to use app ##
 

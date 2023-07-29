@@ -9,7 +9,7 @@ RAON(Run Apps On Startup) is a tool that automatically opens when your pc is sta
 
 ## Setup Instructions ##
 
-1: Download the Autostart.py file and copy it (CTRL + C)
+1: Download the Zip with all of the files in it, then copy it to clipboard(CTRL + C)
 
 2: Press (Windows + R)
 
@@ -19,19 +19,25 @@ RAON(Run Apps On Startup) is a tool that automatically opens when your pc is sta
 
 5: Make a new folder called ( Dodo Co )
 
-6: In the folder ( Dodo Co ) paste the ( Autostart.py ) file from earlier 
+6: In the folder ( Dodo Co ) paste the ( RunAppsOnStartup.zip ) file from earlier 
 
-7: Inside the ( Dodo Co ) folder make a new folder named ( Disabled )
+7: Extract the RunAppsOnStartup.zip file, then open it if you see only 1 file and its a folder then open that one if not that is ok you will see 5 files either way
 
-8: Inside the ( Dodo Co ) folder right click the ( Autostart.py ) file, at the bottom it will show 'Create Shortcut' next copy the new shortcut
+8: Move the following files into the Dodo Co folder: Disabled, Autostart.py
 
-9: Repeat steps 2 and 3
+9: Delete the RunAppsOnStartup zip file and folder that you extracted
 
-10: paste the shortcut, then go back to the folder ( Dodo Co ) and delete the shortcut there
+10: Inside the ( Dodo Co ) folder right click the ( Autostart.py ) file, at the bottom it will show 'Create Shortcut' press that then copy the new shortcut
 
-(OPTIONAL) (RECOMMENDED) 11: Right-click the folder ( Disabled ) then click Send to > Create Desktop Shortcut
+11: Repeat steps 2 and 3
 
-(OPTIONAL) (RECOMMENDED) 12: Right-click the file ( Startup.py ) then click Sent to > Create Desktop Shortcut
+12: paste the shortcut, then go back to the folder ( Dodo Co ) and delete the shortcut you just made
+
+(OPTIONAL) (RECOMMENDED) 13: Right-click the folder ( Disabled ) then click Send to > Create Desktop Shortcut
+
+(OPTIONAL) (RECOMMENDED) 14: Right-click the file ( Startup.py ) then click Sent to > Create Desktop Shortcut
+
+To make sure you did it right look at the following pictures
 
 ## How to use app ##
 

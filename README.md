@@ -2,7 +2,7 @@ I DO NOT ALLOW MY CODE TO BE COPIED EVER UNLESS SPECIFICALLY TOLD OTHERWISE FROM
 ### you require to have 'Python' and 'Pip' installed ###
 # Run Apps On Startup
 
-Ignore the fact that it's RAOS and not RAON it just sounds better
+Ignore the fact that it's Run Apps On Startup should be RIOS i just thing that RION sounds better
  
 I have made this all by myself,
 RAON(Run Apps On Startup) is a tool that automatically opens when your pc is started, RAON can swap files between 1: Disabled, and 2: Startup with a cool menu.
